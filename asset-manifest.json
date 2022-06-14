@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/poetry-prompt-generator/static/css/main.28b1d41a.chunk.css",
+    "main.js": "/poetry-prompt-generator/static/js/main.a95a5eb4.chunk.js",
+    "main.js.map": "/poetry-prompt-generator/static/js/main.a95a5eb4.chunk.js.map",
+    "runtime-main.js": "/poetry-prompt-generator/static/js/runtime-main.0056d918.js",
+    "runtime-main.js.map": "/poetry-prompt-generator/static/js/runtime-main.0056d918.js.map",
+    "static/js/2.9c446683.chunk.js": "/poetry-prompt-generator/static/js/2.9c446683.chunk.js",
+    "static/js/2.9c446683.chunk.js.map": "/poetry-prompt-generator/static/js/2.9c446683.chunk.js.map",
+    "index.html": "/poetry-prompt-generator/index.html",
+    "precache-manifest.d4382c62964f77765ee414d2acfe272c.js": "/poetry-prompt-generator/precache-manifest.d4382c62964f77765ee414d2acfe272c.js",
+    "service-worker.js": "/poetry-prompt-generator/service-worker.js",
+    "static/css/main.28b1d41a.chunk.css.map": "/poetry-prompt-generator/static/css/main.28b1d41a.chunk.css.map",
+    "static/js/2.9c446683.chunk.js.LICENSE.txt": "/poetry-prompt-generator/static/js/2.9c446683.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0056d918.js",
+    "static/js/2.9c446683.chunk.js",
+    "static/css/main.28b1d41a.chunk.css",
+    "static/js/main.a95a5eb4.chunk.js"
+  ]
+}
